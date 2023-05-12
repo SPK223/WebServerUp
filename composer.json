@@ -1,0 +1,17 @@
+{
+    "name": "hannes.olofsson1/nti-ehandel",
+    "require": {
+        "stripe/stripe-php": "^10.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "HannesOlofsson1\\NtiEhandel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SPK222",
+            "email": "hanneserikolo@gmail.com"
+        }
+    ]
+}
